@@ -1,7 +1,7 @@
 ## BinaBola ML Model Development
 we create two sophicated model
 1. Food Classification
-2. Exercise
+2. Exercise Detection
 
 # Replication Steps
 1. Clone this repository:
